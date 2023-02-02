@@ -1,0 +1,14 @@
+lista =  [1,2,3]
+
+iterador = iter(lista)
+
+lista = [1,2,3]
+
+iterator = iter(lista)
+
+while(True):
+  try:
+    print(next(iterator))
+  except:
+    break;
+    
