@@ -1,0 +1,18 @@
+{
+    "Rodrigo": {
+        "CPF": "123456788",
+        "Sexo": "Masculino",
+        "Endereco": "Casa 345",
+        "Idade": 23
+    },
+    "Fernando": {
+        "CPF": "4545454",
+        "Sexo": "Masculino",
+        "Endereco": "Rua y",
+        "Idade": 23,
+        "Filhos": [
+            "Rodrigo",
+            "lucas"
+        ]
+    }
+}
