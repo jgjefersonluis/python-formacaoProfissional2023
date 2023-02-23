@@ -5,11 +5,11 @@
 !pip install boto3 google colab
 """
 
-import boto3
-import io
+
+
 from io import BytesIO
 
-s3 = boto3.resource(
+s3 = ind.resource(
     service_name ='s3',
     region_name = 'sa-east-1',
     aws_access_key_id = 'AKIAVF6XVFBSOOJOJSPU',
